@@ -44,8 +44,9 @@
 ![[Pasted image 20230504233748.png]]
 
 ## 資料2
-Transfer Learning的方法：
+Transfer Learning的方法
 [來源](https://chiachun0818.medium.com/%E5%BF%AB%E9%80%9F%E7%90%86%E8%A7%A3pre-trained-model-transfer-learning%E4%B9%8B%E9%96%93%E5%B7%AE%E7%95%B0-%E4%B8%A6%E4%B8%94%E5%AF%A6%E4%BD%9Cpytorch%E6%8F%90%E4%BE%9B%E7%9A%84pre-trained-model-4a246a38463b)
+
 進行遷移學習的方式有兩種：
 
 1. 特徵擷取 (Feature Extraction)：凍結除了全連接層或者輸出層以外的權重，只訓練沒凍結的即可。
